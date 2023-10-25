@@ -1,0 +1,41 @@
+# estado :  EN PROCESO 
+
+
+# telegram bot
+https://www.youtube.com/watch?v=vZtm1wuA2yc
+
+7.29 min
+
+# set bot para grupo
+# 21.26 
+
+# bot django telegram
+
+https://www.youtube.com/watch?v=NwBWW8cNCP4
+
+66 DIA
+57224 cole
+
+## guia 
+# levantar telegram bot web server
+
+# documentaicon
+https://core.telegram.org/bots
+
+
+
+# archivo funciona ok
+# main_008_receibing.py
+# echobot.py funcion ok
+
+# repo git
+
+# guia 
+# devuelva solo precio del dolar
+
+# manejo de mansajes bot
+# https://www.youtube.com/watch?v=PTAkiukJK7E
+
+# how to host my bot
+# https://www.youtube.com/watch?v=2TI-tCVhe9k
+
